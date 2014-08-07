@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-example",
+  "version": "0.0.1",
+  "homepage": "index.html",
+  "authors": [
+    "smallg"
+  ],
+  "description": "for new developer",
+  "main": "index.html",
+  "keywords": [
+    "angularjs",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1",
+    "angular-resource": "~1.2.21",
+    "angular": "~1.2.21",
+    "angular-cookies": "~1.2.21",
+    "angular-sanitize": "~1.2.21",
+    "angular-route": "~1.2.21"
+  }
+}
